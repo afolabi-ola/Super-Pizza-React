@@ -47,7 +47,7 @@ export async function updateOrder(id, updateObj) {
     });
 
     if (!res.ok) throw Error();
-    // We don't need the data, so we don't return anything
+    // We don't need the data, so we don't return anythin
   } catch (err) {
     throw Error('Failed updating your order');
   }
