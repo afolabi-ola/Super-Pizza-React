@@ -20,9 +20,8 @@ A responsive pizza ordering application built with **React**. It includes **add-
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app here)*  
 Example:  
-![Super Pizza Screenshot](screenshot.png)
+![Super Pizza Screenshot](image.png)
 
 ## 📂 Installation & Setup
 
